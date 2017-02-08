@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    linkhub (1.0.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  linkhub
+
+BUNDLED WITH
+   1.14.3
